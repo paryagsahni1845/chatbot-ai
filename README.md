@@ -21,16 +21,17 @@ A web-based AI chatbot application built using **FastAPI** (backend) and **React
 ## 📦 Project Architecture
 
 Frontend (React)
-    ⬇️
-API Request
-    ⬇️
+      ↓
+  API Request
+      ↓
 Backend (FastAPI)
-    ⬇️
-Groq API
-    ⬇️
-NLP Response
-    ⬇️
-FastAPI
-    ⬇️
-Frontend → Display to user
-
+      ↓
+   Groq API
+      ↓
+ NLP Response
+      ↓
+Backend (FastAPI)
+      ↓
+Frontend (React)
+      ↓
+User Interface (Chat Display)
